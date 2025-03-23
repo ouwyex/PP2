@@ -55,7 +55,7 @@ screen = pygame.display.set_mode((400, 300))
 pygame.display.set_caption("Music Player")
 
 pygame.mixer.init()
-pygame.mixer.music.load("sample.mp3")  # Replace with your music file
+pygame.mixer.music.load("sample.mp3") 
 
 def play_music():
     pygame.mixer.music.play()
@@ -64,11 +64,9 @@ def stop_music():
     pygame.mixer.music.stop()
 
 def next_track():
-    # Implement logic to load and play the next track
     pass
 
 def previous_track():
-    # Implement logic to load and play the previous track
     pass
 
 running = True
