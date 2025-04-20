@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Max",
+      "second_name": "Maxon",
+      "last_name": "Maxov",
+      "phone_number": "87017502020"
+    },
+    {
+      "name": "Petr",
+      "second_name": "Petya",
+      "last_name": "Petrov",
+      "phone_number": "87025503030"
+    },
+    {
+      "name": "Alex",
+      "second_name": "Alexa",
+      "last_name": "Alexev",
+      "phone_number": "87017004040"
+    },
+    {
+      "name": "Dima",
+      "second_name": "Dimon",
+      "last_name": "Diman",
+      "phone_number": "87017405050"
+    },
+    {
+      "name": "Vanya",
+      "second_name": "Van",
+      "last_name": "Vaneev",
+      "phone_number": "87027006060"
+    },
+    {
+      "name": "Baha",
+      "second_name": "Baga",
+      "last_name": "Bahah",
+      "phone_number": "87027107070"
+    },
+    {
+      "name": "Misha",
+      "second_name": "Mish",
+      "last_name": "Mishev",
+      "phone_number": "87017508080"
+    },
+    {
+      "name": "Nika",
+      "second_name": "Nicole",
+      "last_name": "Nikita",
+      "phone_number": "87027509090"
+    },
+    {
+      "name": "Egor",
+      "second_name": "Egov",
+      "last_name": "Egos",
+      "phone_number": "87017701010"
+    },
+    {
+      "name": "Tema",
+      "second_name": "Temich",
+      "last_name": "Artem",
+      "phone_number": "87027701111"
+    }
+  ]
+  
